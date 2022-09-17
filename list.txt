@@ -1,3 +1,6 @@
 ! Ads
 ||freewheel-jitt.sanoma.fi^
 ||nelonenmedia-pmd-ads-*.nm-stream.nelonenmedia.fi^
+||s1.fwmrm.net^
+! Tracking (not ad tracking)
+||sanoma.endpoint.finnpanel.fi^
