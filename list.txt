@@ -1,1 +1,3 @@
-
+! Ads
+||freewheel-jitt.sanoma.fi^
+||nelonenmedia-pmd-ads-*.nm-stream.nelonenmedia.fi^
