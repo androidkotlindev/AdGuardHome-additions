@@ -4,3 +4,4 @@
 ||s1.fwmrm.net^
 ! Tracking (not ad tracking)
 ||sanoma.endpoint.finnpanel.fi^
+||rac.ruutu.fi^
